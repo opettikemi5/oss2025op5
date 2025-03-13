@@ -21,7 +21,9 @@ https://www.google.com
 
 [Link](https://www.google.com "optional title")
 
-Click [here][id]:https://www.google.com
+Click [here][id]
+
+[id]:https://www.google.com
 
 > blockquote text
 

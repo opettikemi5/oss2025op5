@@ -2,6 +2,8 @@
 good lecture
 OSS lecture 
 
+slack 확인
+
 # Header 0
 
 |Left |Center |Right
